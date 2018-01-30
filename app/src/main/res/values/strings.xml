@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BluetoothTest</string>
+    <string name="led_one">Светодиод 1</string>
+    <string name="led_two">Светодиод 2</string>
+</resources>
